@@ -1,0 +1,25 @@
+{
+  "name": "text-loader",
+  "version": "1.0.0",
+  "description": "A text loader for webpack. It loads the contents of a file as a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:QubitProducts/text-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "text",
+    "browser"
+  ],
+  "author": "Karolis Narkevicius <karolis.n@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QubitProducts/text-loader/issues"
+  },
+  "homepage": "https://github.com/QubitProducts/text-loader"
+}
